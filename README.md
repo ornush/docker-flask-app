@@ -27,10 +27,6 @@ This project was built to practice containerizing a Python application using Doc
 
 
 
-### Then
-```bash
-git add .
-git commit -m "add README"
-git push
+
 
 
