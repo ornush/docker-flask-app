@@ -8,9 +8,11 @@ A simple Python Flask web application containerized with Docker.
 - Docker
 
 ## Project Structure
-- `dev.py` - main Flask app
-- `requirements.txt` - dependencies
-- `Dockerfile` - container setup
+- `dev.py` - main Flask application  
+- `requirements.txt` - project dependencies  
+- `Dockerfile` - Docker image configuration  
+- `docker-compose.yml` - service configuration using Docker Compose  
+- `.dockerignore` - excludes unnecessary files from the Docker build  
 
 ## How to Run
 ```bash
